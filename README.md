@@ -3,8 +3,8 @@ ROV (Remotely Operated Vehicle), Aquatic Drone, is a remotely operated vehicle, 
 
 
 ## Electronic Circuit: Breadboad
-![Breadboard](pcb/electronic_circuit_breadboard.png)
+![Breadboard](electronic_circuit/electronic_circuit_breadboard.png)
 
 
 ## Electronic Circuit: Schematic
-![Schematic](pcb/electronic_circuit_schematic.png)
+![Schematic](electronic_circuit/electronic_circuit_schematic.png)
