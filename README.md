@@ -16,4 +16,7 @@ ROV (Remotely Operated Vehicle), Aquatic Drone, is a remotely operated vehicle, 
 ## 3D Printed Parts
 
 ### Motor Holder
-![Motor Holder](3d_printed_parts/Motor_Holder/Motor_Holder.png)
+
+![Motor Holder](3d_printed_parts/Motor_Holder/Motor_Holder_FreeCAD.png)
+
+![Motor Holder](3d_printed_parts/Motor_Holder/Motor_Holder_Cura.png)
