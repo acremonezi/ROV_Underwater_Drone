@@ -1,5 +1,6 @@
-# ROV_Underwater_Drone
+# ROV Underwater Drone
 ROV (Remotely Operated Vehicle), Aquatic Drone, is a remotely operated vehicle, an underwater robot controlled remotely by an operator on land.
+
 
 ## Electronic Circuit: Breadboad
 ![Breadboard](pcb/electronic_circuit_breadboard.png)
