@@ -1,6 +1,7 @@
 # ROV Underwater Drone
-ROV (Remotely Operated Vehicle), Aquatic Drone, is a remotely operated vehicle, an underwater robot controlled remotely by an operator on land.
-
+A DIY (Do It Yourself) ROV (Remotely Operated Vehicle), also known as an aquatic drone, is an underwater robot controlled remotely by an operator on land. 
+<br>
+Share it with others and build it for free at home with your kids. It is an excellent hands-on way to learn engineering and teamwork, using simple materials and a curious mindset.
 
 ## Electronic Circuit
 
@@ -15,7 +16,7 @@ ROV (Remotely Operated Vehicle), Aquatic Drone, is a remotely operated vehicle, 
 
 ## Arduino Code
 
-### PlatformIO
+
 ![Arduino Code](src/main.png)
 
 
