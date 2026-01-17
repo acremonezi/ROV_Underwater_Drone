@@ -13,6 +13,13 @@ ROV (Remotely Operated Vehicle), Aquatic Drone, is a remotely operated vehicle, 
 ![Schematic](electronic_circuit/electronic_circuit_schematic.png)
 
 
+## Arduino Code
+
+### PlatformIO
+![Arduino Code](src/main.pngg)
+
+
+
 ## 3D Printed Parts
 
 ### Motor Holder
